@@ -1,1 +1,1 @@
-# Online-Supplementary-Material
+This repository contains the supplementary material for the paper **"Physical-Layer Security for Heterogeneous UAV Networks with LLM-Guided Heuristic MARL"**. It provides detailed mathematical derivations for the SCA-based trajectory optimization baseline used in the comparative experiments.
